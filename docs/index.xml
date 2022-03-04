@@ -1,32 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>mjsmagalhaes on MJSM Workshop</title>
-    <link>http://example.org/</link>
-    <description>Recent content in mjsmagalhaes on MJSM Workshop</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Running Dash in a Notebook</title>
-      <link>http://example.org/notebook/dash/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/notebook/dash/</guid>
-      <description>example_dashpre { line-height: 125%; }td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }span.linenos { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }td.linenos .special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }.highlight .hll { background-color: var(--jp-cell-editor-active-background) }.highlight { background: var(--jp-cell-editor-background); color: var(--jp-mirror-editor-variable-color) }.highlight .c { color: var(--jp-mirror-editor-comment-color); font-style: italic } /* Comment */.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://example.org/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/about/</guid>
-      <description>Hello! My name is Marcos and this will be my page.
-My Interests Professionally, my main interest is working with data (basically doing any cool stuff with cool data).
-I am also interested in (using) programming languages. Over the years I&amp;rsquo;ve used: LabView&amp;rsquo;s G, Matlab, R, Java, Lua, C/C++ (in no particular order). More recently python and Javascript.
-On my spare time, I try to be a decent World of Warcraft player &amp;hellip;.</description>
-    </item>
-    
-  </channel>
-</rss>
