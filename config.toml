@@ -1,8 +1,8 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mjsmagalhaes.github.io'
 languageCode = 'en-us'
 title = 'MJSM Workshop'
 theme = 'hello-friend-ng'
-publishDir = 'docs'
+publishDir = '..\mjsmagalhaes_page'
 
 [params]
  homeSubtitle = 'My DataScience adventures'
