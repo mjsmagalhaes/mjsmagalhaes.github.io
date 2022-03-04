@@ -5,25 +5,6 @@
     <link>https://mjsmagalhaes.github.io/tags/</link>
     <description>Recent content in Tags on MJSM Workshop</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mjsmagalhaes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>notebook</title>
-      <link>https://mjsmagalhaes.github.io/tags/notebook/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mjsmagalhaes.github.io/tags/notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://mjsmagalhaes.github.io/tags/test/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mjsmagalhaes.github.io/tags/test/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://mjsmagalhaes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
