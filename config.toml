@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'MJSM Workshop'
+theme = 'hello-friend-ng'
+[params]
+ homeSubtitle = 'My DataScience adventures'
+ disableReadOtherPosts = false
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "notebooks"
+    name       = "Notebooks"
+    url        = "notebook/"
