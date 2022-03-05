@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mjsmagalhaes.github.io/tags/uci/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Running Dash in a Notebook</title>
+      <title>Forest Fires in Portugal Analysis</title>
       <link>https://mjsmagalhaes.github.io/notebook/forest_fires/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mjsmagalhaes.github.io/notebook/forest_fires/</guid>
-      <description>example_dashpre { line-height: 125%; }td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }span.linenos { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }td.linenos .special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }.highlight .hll { background-color: var(--jp-cell-editor-active-background) }.highlight { background: var(--jp-cell-editor-background); color: var(--jp-mirror-editor-variable-color) }.highlight .c { color: var(--jp-mirror-editor-comment-color); font-style: italic } /* Comment */.</description>
+      <description>data_forest_firespre { line-height: 125%; }td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }span.linenos { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }td.linenos .special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }.highlight .hll { background-color: var(--jp-cell-editor-active-background) }.highlight { background: var(--jp-cell-editor-background); color: var(--jp-mirror-editor-variable-color) }.highlight .c { color: var(--jp-mirror-editor-comment-color); font-style: italic } /* Comment */.</description>
     </item>
     
   </channel>
