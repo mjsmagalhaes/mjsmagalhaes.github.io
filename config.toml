@@ -1,8 +1,7 @@
 baseURL = 'https://mjsmagalhaes.github.io'
 languageCode = 'en-us'
 title = 'MJSM Workshop'
-theme = 'hello-friend-ng'
-publishDir = '..\mjsmagalhaes_page'
+theme = 'hugo-theme-hello-friend-ng'
 
 [params]
  homeSubtitle = 'My DataScience adventures'
