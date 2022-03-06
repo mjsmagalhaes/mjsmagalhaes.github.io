@@ -1,20 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>notebook on MJSM Workshop</title>
-    <link>https://mjsmagalhaes.github.io/tags/notebook/</link>
-    <description>Recent content in notebook on MJSM Workshop</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mjsmagalhaes.github.io/tags/notebook/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Running Dash in a Notebook</title>
-      <link>https://mjsmagalhaes.github.io/notebook/dash/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mjsmagalhaes.github.io/notebook/dash/</guid>
-      <description>example_dashpre { line-height: 125%; }td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }span.linenos { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }td.linenos .special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }.highlight .hll { background-color: var(--jp-cell-editor-active-background) }.highlight { background: var(--jp-cell-editor-background); color: var(--jp-mirror-editor-variable-color) }.highlight .c { color: var(--jp-mirror-editor-comment-color); font-style: italic } /* Comment */.</description>
-    </item>
-    
-  </channel>
-</rss>
